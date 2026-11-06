@@ -32,7 +32,7 @@ Ofrecemos servicios de desarrollo integral y transformación digital:
 
 Además de desarrollar para nuestros clientes, impulsamos herramientas de código abierto y productos internos orientados a simplificar el desarrollo y la gestión digital:
 
-* 🎓 **CrabAcademic (SINT):** Sistema integral de gestión y administración escolar diseñado para optimizar el control de alumnos, personal docente, procesos administrativos, preinscripciones, asignación de horarios y gestión operativa institucional.
+* 🎓 **CrabSINT:** Sistema integral de gestión y administración escolar diseñado para optimizar el control de alumnos, personal docente, procesos administrativos, preinscripciones, asignación de horarios y gestión operativa institucional.
 * 🛠️ **CrabTools:** Suite web accesible de herramientas y utilidades digitales.
 * ⚙️ **CrabDevOps:** Suite de herramientas para desarrolladores orientada a optimizar el flujo de trabajo diario (decodificadores/conversores como JWT a JSON, formateadores, validadores de Dockerfile y Docker Compose, entre otras utilidades).
 
